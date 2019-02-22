@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API Lab Poor Mans Reddit", "API Lab Poor Mans Reddit\API Lab Poor Mans Reddit.csproj", "{96879F84-D71B-4EA9-A794-EADCFC0F9825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96879F84-D71B-4EA9-A794-EADCFC0F9825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96879F84-D71B-4EA9-A794-EADCFC0F9825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96879F84-D71B-4EA9-A794-EADCFC0F9825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96879F84-D71B-4EA9-A794-EADCFC0F9825}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A7574B1-49A1-410C-A73D-0E612C759A21}
+	EndGlobalSection
+EndGlobal

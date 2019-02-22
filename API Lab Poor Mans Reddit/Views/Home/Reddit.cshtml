@@ -1,0 +1,8 @@
+﻿@model IEnumerable<API_Lab_Poor_Mans_Reddit.Models.Post>
+@foreach (var o in Model)
+{
+    <a href="@o.LinkURL">
+        <h2>@o.Title</h2>
+        <img src="@o.ImageURL" />
+    </a>
+}
